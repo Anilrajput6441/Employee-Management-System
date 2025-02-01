@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "imageurl": "https://randomuser.me/api/portraits/men/1.jpg",
+      "firstname": "Rohan",
+      "lastname": "Sharma",
+      "email": "rohan.sharma@example.com",
+      "contactnumber": "+91 9876543210",
+      "age": 28,
+      "dob": "1996-03-15",
+      "salary": 75000,
+      "address": "123 MG Road, Bangalore, India"
+    },
+    {
+      "id": 2,
+      "imageurl": "https://randomuser.me/api/portraits/women/2.jpg",
+      "firstname": "Aisha",
+      "lastname": "Khan",
+      "email": "aisha.khan@example.com",
+      "contactnumber": "+91 8765432109",
+      "age": 32,
+      "dob": "1992-07-21",
+      "salary": 85000,
+      "address": "56 Park Street, Mumbai, India"
+    },
+    {
+      "id": 3,
+      "imageurl": "https://randomuser.me/api/portraits/men/3.jpg",
+      "firstname": "Vikram",
+      "lastname": "Singh",
+      "email": "vikram.singh@example.com",
+      "contactnumber": "+91 7654321098",
+      "age": 30,
+      "dob": "1994-02-10",
+      "salary": 92000,
+      "address": "89 Nehru Nagar, Delhi, India"
+    },
+    {
+      "id": 4,
+      "imageurl": "https://randomuser.me/api/portraits/women/4.jpg",
+      "firstname": "Priya",
+      "lastname": "Verma",
+      "email": "priya.verma@example.com",
+      "contactnumber": "+91 6543210987",
+      "age": 26,
+      "dob": "1998-11-05",
+      "salary": 78000,
+      "address": "67 South Avenue, Chennai, India"
+    },
+    {
+      "id": 5,
+      "imageurl": "https://randomuser.me/api/portraits/men/5.jpg",
+      "firstname": "Arjun",
+      "lastname": "Nair",
+      "email": "arjun.nair@example.com",
+      "contactnumber": "+91 5432109876",
+      "age": 35,
+      "dob": "1989-05-30",
+      "salary": 102000,
+      "address": "12 MG Road, Hyderabad, India"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://randomuser.me/api/portraits/women/6.jpg",
+      "firstname": "Meera",
+      "lastname": "Iyer",
+      "email": "meera.iyer@example.com",
+      "contactnumber": "+91 4321098765",
+      "age": 29,
+      "dob": "1995-08-14",
+      "salary": 87000,
+      "address": "34 Brigade Road, Pune, India"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://randomuser.me/api/portraits/men/7.jpg",
+      "firstname": "Rahul",
+      "lastname": "Patel",
+      "email": "rahul.patel@example.com",
+      "contactnumber": "+91 3210987654",
+      "age": 31,
+      "dob": "1993-06-25",
+      "salary": 94000,
+      "address": "77 Residency Road, Ahmedabad, India"
+    },
+    {
+      "id": 8,
+      "imageurl": "https://randomuser.me/api/portraits/women/8.jpg",
+      "firstname": "Sanya",
+      "lastname": "Gupta",
+      "email": "sanya.gupta@example.com",
+      "contactnumber": "+91 2109876543",
+      "age": 27,
+      "dob": "1997-12-03",
+      "salary": 82000,
+      "address": "23 Gandhi Nagar, Kolkata, India"
+    },
+    {
+      "id": 9,
+      "imageurl": "https://randomuser.me/api/portraits/men/9.jpg",
+      "firstname": "Manoj",
+      "lastname": "Joshi",
+      "email": "manoj.joshi@example.com",
+      "contactnumber": "+91 1098765432",
+      "age": 34,
+      "dob": "1990-09-18",
+      "salary": 99000,
+      "address": "65 Marine Drive, Kochi, India"
+    },
+    {
+      "id": 10,
+      "imageurl": "https://randomuser.me/api/portraits/women/10.jpg",
+      "firstname": "Neha",
+      "lastname": "Kapoor",
+      "email": "neha.kapoor@example.com",
+      "contactnumber": "+91 9876543211",
+      "age": 25,
+      "dob": "1999-04-07",
+      "salary": 76000,
+      "address": "47 Lajpat Nagar, New Delhi, India"
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Sandbox</title>
+    <meta charset="UTF-8" />
+  </head>
+  <link rel="stylesheet" href="index.css" />
+  <body>
+    <div id="app">
+    <header class="header">
+      <h1>Employee Management</h1>
+      <button class="addemp">Add employee</button>
+    </header>
+    </div>
+
+
+    <div class="employees">
+        <div class="employees__name">
+            <span class="employees__name--title">Employee List</span>
+            <div class="employees__name--list"></div>
+        </div>
+
+
+        <div class="employees__single">
+            <span class="employees__single--title">Employee Information</span>
+            <div class="employees__single--info"></div>
+        </div>
+    </div>
+
+    <!-- --Add Employee-- -->
+
+    <div class="addEmployee">
+        <form action="" class="addEmployee__create">
+            Add new Employee
+            <div>
+                <input type="text" name="firstname" placeholder="first name" required>
+                <input type="text" name="lastname" placeholder="last name" required>
+            </div>
+            <input type="text" name="imageurl" placeholder="image url (optional)">
+            <input type="text" name="eamil" placeholder="email" required>
+            <input type="number" name="contactNumber" placeholder="Contact" required>
+            <input type="number" name="salary" placeholder="salary" required>
+            <input type="text" name="address" placeholder="address" required>
+            <input type="date" name="dob" placeholder="Date Of Birth" class="addEmployee__create--dob" required>
+            <input type="submit" class="addEmployee__create--submit" value="submit">
+
+        </form>
+    </div>
+
+
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>
